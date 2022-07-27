@@ -1,0 +1,41 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1658930340, 21424055]
+build_end_time: [1658930358, 609449863]
+inputs:
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/CharacterSet/CharacterSet+Contains.swift"
+  : [1658930335, 253621816]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Equatable/Equatable+AnyOf.swift"
+  : [1658930335, 253719091]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Int/Int+IsOdd.swift": [1658930335, 253828525]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Sequence/Sequence+AnyOf.swift"
+  : [1658930335, 253926038]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Sequence/Sequence+Occurrences.swift"
+  : [1658930335, 253983020]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+HTMLEntities.swift"
+  : [1658930335, 254077911]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+IsNumber.swift"
+  : [1658930335, 254139900]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+PrefixChecking.swift"
+  : [1658930335, 254189968]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+Removing.swift"
+  : [1658930335, 254245281]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Extensions/Strings/Substring+HasSuffix.swift"
+  : [1658930335, 254304885]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Grammar/Grammar.swift": [1658930335, 254397630]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Grammar/SwiftGrammar.swift": [1658930335, 254526138]
+  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Output/AttributedStringOutputFormat.swift"
+  : [1658930335, 254639625]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Output/HTMLOutputFormat.swift": [1658930335, 254711866]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Output/MarkdownDecorator.swift": [1658930335, 254778146]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Output/OutputBuilder.swift": [1658930335, 254839420]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Output/OutputFormat.swift": [1658930335, 254895448]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Syntax/SyntaxHighlighter.swift": [1658930335, 254997014]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Syntax/SyntaxRule.swift": [1658930335, 255057096]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Theming/Color.swift": [1658930335, 255140304]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Theming/Font.swift": [1658930335, 255213737]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Theming/Theme+Defaults.swift": [1658930335, 255287170]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Theming/Theme.swift": [1658930335, 255362033]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Tokenizing/Segment.swift": [1658930335, 255459308]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Tokenizing/TokenType.swift": [1658930335, 255526065]
+  "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splash/Sources/Splash/Tokenizing/Tokenizer.swift": [1658930335, 255605220]
