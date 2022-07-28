@@ -27,9 +27,9 @@ targets:
   "Web-debug.exe": ["<Web-debug.exe>"]
   "Web-debug.module": ["<Web-debug.module>"]
   "ink-cli-debug.exe": ["<ink-cli-debug.exe>"]
-  "main": ["<Web-debug.exe>","<Web-debug.module>"]
+  "main": ["<Web-debug.exe>","<Web-debug.module>","<publish-cli-debug.exe>"]
   "publish-cli-debug.exe": ["<publish-cli-debug.exe>"]
-  "test": ["<Web-debug.exe>","<Web-debug.module>"]
+  "test": ["<Web-debug.exe>","<Web-debug.module>","<publish-cli-debug.exe>"]
 default: "main"
 nodes:
   "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/Sources/Web/":
