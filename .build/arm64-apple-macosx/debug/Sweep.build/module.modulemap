@@ -1,4 +1,0 @@
-module Sweep {
-    header "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/arm64-apple-macosx/debug/Sweep.build/Sweep-Swift.h"
-    requires objc
-}

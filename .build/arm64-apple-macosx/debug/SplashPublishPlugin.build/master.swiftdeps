@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
-options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
-build_start_time: [1658930360, 358618974]
-build_end_time: [1658930360, 641676902]
-inputs:
-  ? "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/checkouts/splashpublishplugin/Sources/SplashPublishPlugin/SplashPublishPlugin.swift"
-  : [1658930335, 23332595]

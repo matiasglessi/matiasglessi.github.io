@@ -1,4 +1,0 @@
-module ReadingTimePublishPlugin {
-    header "/Users/matiasglessi/Documents/dev/matiasglessi.github.io/.build/arm64-apple-macosx/debug/ReadingTimePublishPlugin.build/ReadingTimePublishPlugin-Swift.h"
-    requires objc
-}
